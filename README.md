@@ -1,7 +1,7 @@
 # EduMiQa 🧸 — Kembara Pembelajaran Kanak-Kanak Ceria!
 
 ### Website
-https://edumiqa.pats.my [Website](https://edumiqa.pats.my)
+https://edumiqa.pats.my 
 
 Aplikasi mudah alih Flutter interaktif yang menyeronokkan untuk kanak-kanak. Menggabungkan pembelajaran asas abjad, Jawi, nombor, Text-to-Speech (TTS), sistem multi-profil tempatan, papan pendahulu (leaderboard), serta permainan mini runner 2D "Subway Math Runner".
 
