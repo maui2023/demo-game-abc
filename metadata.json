@@ -1,6 +1,0 @@
-{
-  "name": "Pustaka Templat Prompt Game",
-  "description": "Aplikasi game pendidikan premium untuk anak-anak berumur 3-6 tahun. Sesi interaktif pengenalan ABC, Alif Ba Ta, Nombor 1-0, Matematik visual comel, dan kad belajar kustom Cikgu AI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

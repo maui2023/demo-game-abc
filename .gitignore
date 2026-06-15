@@ -6,4 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
-*.apk
+# Allow release APKs to be pushed for GitHub Pages
+!EduMiQa_final.apk
+!EduMiQa_universal.apk
